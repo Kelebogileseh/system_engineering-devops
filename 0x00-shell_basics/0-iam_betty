@@ -1,3 +1,2 @@
-mkdir -p system_engineering-devops/0x01-shell_permissions
-cd system_engineering-devops/0x01-shell_permissions
-nano 0-iam_betty
+#!/bin/bash
+bash chmod +x filename
