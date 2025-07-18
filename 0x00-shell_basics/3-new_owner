@@ -1,2 +1,2 @@
 #!/bin/bash
-chown "$1" "$2"
+chown betty hello
