@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo ./13-change_group
 ls -l hello
