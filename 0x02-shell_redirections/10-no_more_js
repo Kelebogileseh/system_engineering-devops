@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script deletes all regular .js files in current and subdirectories
+find . -type f -name "*.js" -delete
