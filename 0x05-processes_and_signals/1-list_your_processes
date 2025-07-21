@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script displays all currently running processes in a user-friendly format, including processes without a TTY, and shows the process hierarchy
+
+ps -eo user,pid,ppid,%cpu,%mem,tty,cmd --forest
