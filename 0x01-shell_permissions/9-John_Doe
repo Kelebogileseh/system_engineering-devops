@@ -1,0 +1,2 @@
+#!/bin/bash
+# This script sets hello file permissions to -rwxr-x-wx (753)
