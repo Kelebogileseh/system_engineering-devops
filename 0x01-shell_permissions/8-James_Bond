@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script sets hello file permissions to --- --- rwx (007)
+chmod u=,g=,o=rwx hello
