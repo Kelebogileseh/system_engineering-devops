@@ -1,2 +1,2 @@
 #!/bin/bash
-# Add execute permission to the owner of the file
+# This script adds execute permission for the owner of the file named hello
