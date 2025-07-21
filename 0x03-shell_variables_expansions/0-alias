@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
-# This script creates an alias named 'ls' that runs 'rm *'
+#!/bin/bash
+# This script creates an alias named 'ls' that runs 'rm *
