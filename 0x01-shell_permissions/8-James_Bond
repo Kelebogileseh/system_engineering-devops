@@ -1,2 +1,2 @@
 #!/bin/bash
--------rwx 1 user user ... hello
+-------rwx 1 user user ...ls -l hello
