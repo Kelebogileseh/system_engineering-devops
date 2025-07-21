@@ -1,2 +1,2 @@
-#!/bin/bash
-./1-who_am_i | wc -c
+#!/usr/bin/env bash
+# This script prints the effective username of the current user
