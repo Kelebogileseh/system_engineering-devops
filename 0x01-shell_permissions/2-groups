@@ -1,2 +1,2 @@
 #!/bin/bash
-nano 2-groups
+# This script prints all groups the current user is a member of groups
