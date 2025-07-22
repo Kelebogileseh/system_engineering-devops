@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script deletes all regular 2.js files in current and subdirectories pwd ls *.js
+find . -name "*.js" -type f -delete
