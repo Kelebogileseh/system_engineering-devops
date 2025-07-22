@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script prints all groups the current user is a member of groups
+groups
