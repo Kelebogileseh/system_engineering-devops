@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script lists all local variables, environment variables, and shell functions
+set
