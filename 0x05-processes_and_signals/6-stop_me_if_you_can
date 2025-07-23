@@ -1,9 +1,3 @@
 #!/usr/bin/env bash
-# Replaces the running script with 'true' (harmless command)
-
-PID=$(pgrep -f "4-to_infinity_and_beyond")
-if [ -n "$PID" ]; then
-  echo "Stopping process $PID"
-  echo 0 > "/proc/$PID/oom_score_adj"
-  exec -a 4-to_infinity_and_beyond true
-fi
+# This script stops the 4-to_infinity_and_beyond process without using kill or killall
+pkill -f "4-to_infinity_and_beyond"
