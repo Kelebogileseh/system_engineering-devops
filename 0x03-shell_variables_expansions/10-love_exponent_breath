@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script calculates BREATH raised to the power of LOVE
+echo $((BREATH ** LOVE))
